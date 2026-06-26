@@ -19,4 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0143-reorder-list) |
+| [2390-removing-stars-from-a-string](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
