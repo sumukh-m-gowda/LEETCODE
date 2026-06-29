@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [2390-removing-stars-from-a-string](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## String
 |  |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
