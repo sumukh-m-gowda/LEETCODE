@@ -43,8 +43,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [3866-first-unique-even-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0152-maximum-product-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/3866-first-unique-even-element) |
+## Counting
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
