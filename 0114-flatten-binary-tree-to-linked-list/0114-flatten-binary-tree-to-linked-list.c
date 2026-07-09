@@ -6,7 +6,6 @@
  *     struct TreeNode *right;
  * };
  */
-
 struct TreeNode* temp;
 void flattenHelper(struct TreeNode* root) {
     if (root == NULL) {
