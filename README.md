@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3866-first-unique-even-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Dynamic Programming
 |  |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
