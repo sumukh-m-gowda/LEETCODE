@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -110,4 +111,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
