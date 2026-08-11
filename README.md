@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -65,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [3866-first-unique-even-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
 | [3866-first-unique-even-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
@@ -114,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -127,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
