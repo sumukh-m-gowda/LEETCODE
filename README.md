@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [3866-first-unique-even-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/3866-first-unique-even-element) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0229-majority-element-ii) |
 | [3866-first-unique-even-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0229-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -136,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
