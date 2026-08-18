@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0242-valid-anagram) |
 | [2390-removing-stars-from-a-string](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0229-majority-element-ii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0229-majority-element-ii) |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
