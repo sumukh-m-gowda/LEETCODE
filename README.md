@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0179-largest-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
