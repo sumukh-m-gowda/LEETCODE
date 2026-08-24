@@ -10,17 +10,18 @@
  */
 class Solution {
 public:
-    struct ListNode* reverseList(struct ListNode* head) {
-    struct ListNode* prev = NULL;
-    struct ListNode* curr = head;
-    
-    while (curr != NULL) {
-        struct ListNode* next = curr->next;
-        curr->next = prev;
-        prev = curr;
-        curr = next;
+    ListNode* reverseList(ListNode* head) {
+        ListNode* prev = NULL;
+        ListNode* front;
+        ListNode* temp = head;
+
+        while(temp != NULL) {
+            front = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = front;
+            
+        }
+        return prev ;
     }
-    
-    return prev;
-}
 };
