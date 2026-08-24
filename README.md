@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
