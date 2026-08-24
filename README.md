@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
@@ -138,12 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -180,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0035-search-insert-position) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
