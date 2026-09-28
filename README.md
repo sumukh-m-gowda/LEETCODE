@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [2390-removing-stars-from-a-string](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [3866-first-unique-even-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/3866-first-unique-even-element) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [3866-first-unique-even-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
@@ -170,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -216,4 +221,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
