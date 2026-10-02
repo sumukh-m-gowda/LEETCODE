@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0046-permutations) |
 ## Bracket Sequences
 |  |
 | ------- |
