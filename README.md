@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2965-find-missing-and-repeated-values](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3866-first-unique-even-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3866-first-unique-even-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Counting
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0054-spiral-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Memoization
 |  |
 | ------- |
