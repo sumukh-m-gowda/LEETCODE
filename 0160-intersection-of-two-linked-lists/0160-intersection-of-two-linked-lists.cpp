@@ -9,10 +9,10 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        int countA = 0, countB = 0;
-        struct ListNode *tempA = headA;
-        struct ListNode *tempB = headB;
-        
+        int countA=0;
+        int countB=0;
+        ListNode* tempA = headA;
+        ListNode* tempB = headB;
         while (tempA != NULL) {
             countA++;
             tempA = tempA->next;
@@ -46,6 +46,8 @@ public:
             tempB = tempB->next;
         }
 
-        return 0;
-        }
+        return 0 ;
+
+
+    }
 };
