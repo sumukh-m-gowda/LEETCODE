@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0217-contains-duplicate) |
