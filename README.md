@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0658-find-k-closest-elements) |
