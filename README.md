@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1095-find-in-mountain-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/1095-find-in-mountain-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0881-boats-to-save-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0179-largest-number) |
+| [0881-boats-to-save-people](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -305,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
