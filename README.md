@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0075-sort-colors) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0148-sort-list) |
