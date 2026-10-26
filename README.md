@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0682-baseball-game](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## String
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/sumukh-m-gowda/LEETCODE/tree/master/0881-boats-to-save-people) |
